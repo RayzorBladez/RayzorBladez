@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @RayzorBladez (Zach) 
+- 👀 I’m interested in ...learning to code from absolute ignorance.
+- 🌱 I’m currently learning ...what ever I can.
+- 💞️ I’m looking to collaborate on ...Building programs, and bots for discord initially.
+- 📫 How to reach me ...zachray582@gmail.com
+-  Not really sure what I'm doing.
